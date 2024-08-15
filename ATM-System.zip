@@ -8,7 +8,7 @@ class Atm:
     #Adding the Menu Method
     def __menu(self):
         while True: #allows the code to be continously repeated no matter what.
-            print("\nATM Menu:") #menu title
+            print("\nWelcome to Micah's ATM System:") #menu title
             print("1. Generate PIN")   #choice1 
             print("2. Change PIN")     #choice2
             print("3. Check Balance")  #choice3
